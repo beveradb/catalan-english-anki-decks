@@ -1,0 +1,604 @@
+[1549664709] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549664709] sched.py:_updateCutoff(): 0, 1549684800
+[1549665285] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549665285] sched.py:_updateCutoff(): 0, 1549684800
+[1549665676] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549665676] sched.py:_updateCutoff(): 0, 1549684800
+[1549665677] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 0,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 0,
+ 'ts': 1549665676,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 0}
+[1549665677] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549665624964,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549664709801,
+ 'ts': 1549665677,
+ 'usn': 0}
+[1549665677] sync.py:sync(): schema diff
+[1549665813] sync.py:sync(): findChanges
+[1549665814] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549665814] sched.py:_updateCutoff(): 0, 1549684800
+[1549666882] cards.py:flush(): {'crt': 1549666882, 'data': '', 'did': 1549666645627, 'due': 1023, 'factor': 0, 'flags': 0, 'id': 1549666882938, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1549666882, 'nid': 1549666622833, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1549666896] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549666896] sched.py:_updateCutoff(): 0, 1549684800
+[1549666897] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549665813617,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549666896,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 1}
+[1549666897] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549666896078,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549666897,
+ 'usn': 1}
+[1549666897] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1549666897] sync.py:newerRows(): cards, []
+[1549666897] sync.py:newerRows(): notes, []
+[1549666897] sync.py:sync(): client chunk, {'cards': [(1549666882938,
+            1549666622833,
+            1549666645627,
+            0,
+            1549666882,
+            1,
+            0,
+            0,
+            1023,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [(1549666622833,
+            'q}FFK~suS0',
+            1549664709802,
+            1549666882,
+            1,
+            '',
+            'Stack\x1fPila<div><br></div><div><img src="stack-pila.png"></div>',
+            '',
+            '',
+            0,
+            '')],
+ 'revlog': []}
+[1549666897] sync.py:sync(): findChanges
+[1549666897] sync.py:sync(): last local usn is 0
+[1549666897] sync.py:sync(): mediaChanges resp count 0
+[1549666897] media.py:mediaChangesZip(): +media zip, stack-pila.png
+[1549666897] sync.py:sync(): processed 1, serverUsn 1, clientUsn 0
+[1549666897] sync.py:sync(): lastUsn in sync, updating local
+[1549666903] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549666903] sched.py:_updateCutoff(): 0, 1549684800
+[1549666904] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549666896578,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549666903,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 2}
+[1549666904] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549666896578,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549666904,
+ 'usn': 2}
+[1549666904] sync.py:sync(): no changes
+[1549666904] sync.py:sync(): findChanges
+[1549666905] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549666905] sched.py:_updateCutoff(): 0, 1549684800
+[1549666910] sched.py:getCard(): {'data': '', 'did': 1549666645627, 'due': 1023, 'factor': 0, 'flags': 0, 'id': 1549666882938, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1549666882, 'nid': 1549666622833, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1}
+[1549666923] sched.py:answerCard(): 
+[1549666923] cards.py:flushSched(): {'data': '', 'did': 1549666645627, 'due': 3, 'factor': 2500, 'flags': 0, 'id': 1549666882938, 'ivl': 3, 'lapses': 0, 'left': 2002, 'mod': 1549666923, 'nid': 1549666622833, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': -1, 'wasNew': True}
+[1549667500] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549667500] sched.py:_updateCutoff(): 0, 1549684800
+[1549667500] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549666896578,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549667499,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 2}
+[1549667500] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549667499756,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549667500,
+ 'usn': 2}
+[1549667501] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1549667501] sync.py:newerRows(): cards, []
+[1549667501] sync.py:newerRows(): notes, []
+[1549667501] sync.py:sync(): client chunk, {'cards': [(1549666882938,
+            1549666622833,
+            1549666645627,
+            0,
+            1549666923,
+            2,
+            2,
+            2,
+            3,
+            3,
+            2500,
+            1,
+            0,
+            2002,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [],
+ 'revlog': [(1549666923264, 1549666882938, 2, 3, 3, -60, 2500, 12399, 0)]}
+[1549667501] sync.py:sync(): findChanges
+[1549676055] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676055] sched.py:_updateCutoff(): 0, 1549684800
+[1549676057] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676055,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 3}
+[1549676057] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676057,
+ 'usn': 3}
+[1549676057] sync.py:sync(): no changes
+[1549676057] sync.py:sync(): findChanges
+[1549676057] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676057] sched.py:_updateCutoff(): 0, 1549684800
+[1549676085] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676085] sched.py:_updateCutoff(): 0, 1549684800
+[1549676086] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676085,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 3}
+[1549676086] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676086,
+ 'usn': 3}
+[1549676086] sync.py:sync(): no changes
+[1549676086] sync.py:sync(): findChanges
+[1549676090] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676090] sched.py:_updateCutoff(): 0, 1549684800
+[1549676091] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676090,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 3}
+[1549676091] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676091,
+ 'usn': 3}
+[1549676091] sync.py:sync(): no changes
+[1549676091] sync.py:sync(): findChanges
+[1549676091] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676091] sched.py:_updateCutoff(): 0, 1549684800
+[1549676107] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676107] sched.py:_updateCutoff(): 0, 1549684800
+[1549676107] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676106,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 3}
+[1549676107] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676107,
+ 'usn': 3}
+[1549676107] sync.py:sync(): no changes
+[1549676107] sync.py:sync(): findChanges
+[1549676120] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676120] sched.py:_updateCutoff(): 0, 1549684800
+[1549676121] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676120,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 3}
+[1549676121] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676121,
+ 'usn': 3}
+[1549676121] sync.py:sync(): no changes
+[1549676121] sync.py:sync(): findChanges
+[1549676121] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676121] sched.py:_updateCutoff(): 0, 1549684800
+[1549676169] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1549676169] sched.py:_updateCutoff(): 0, 1549684800
+[1549676170] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549667500338,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676169,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 3}
+[1549676170] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1549676169436,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1549676170,
+ 'usn': 3}
+[1549676170] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1549676170] sync.py:newerRows(): cards, []
+[1549676170] sync.py:newerRows(): notes, []
+[1549676170] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1549676170] sync.py:sync(): findChanges
+[1550052161] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1550052161] sched.py:_updateCutoff(): 5, 1550116800
+[1550052161] sched.py:unburyCards(): []
+[1550052161] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1549676169580,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1550052159,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 4}
+[1550052161] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1550052161278,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1550052161,
+ 'usn': 4}
+[1550052162] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1550052162] sync.py:newerRows(): cards, []
+[1550052162] sync.py:newerRows(): notes, []
+[1550052162] sync.py:sync(): client chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1550052162] sync.py:sync(): findChanges
+[1550052162] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1550052162] sched.py:_updateCutoff(): 5, 1550116800
+[1550052248] cards.py:flush(): {'crt': 1550052248, 'data': '', 'did': 1550052201441, 'due': 1024, 'factor': 0, 'flags': 0, 'id': 1550052248494, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550052248, 'nid': 1550052176324, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550052439] cards.py:flush(): {'crt': 1550052439, 'data': '', 'did': 1550052201441, 'due': 1025, 'factor': 0, 'flags': 0, 'id': 1550052439280, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550052439, 'nid': 1550052248531, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550052457] cards.py:flush(): {'crt': 1550052457, 'data': '', 'did': 1550052201441, 'due': 1026, 'factor': 0, 'flags': 0, 'id': 1550052457491, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550052457, 'nid': 1550052439313, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550052481] cards.py:flush(): {'crt': 1550052481, 'data': '', 'did': 1550052201441, 'due': 1027, 'factor': 0, 'flags': 0, 'id': 1550052481610, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550052481, 'nid': 1550052457527, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550052499] cards.py:flush(): {'crt': 1550052499, 'data': '', 'did': 1550052201441, 'due': 1028, 'factor': 0, 'flags': 0, 'id': 1550052499060, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550052499, 'nid': 1550052481687, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550067181] cards.py:flush(): {'crt': 1550067181, 'data': '', 'did': 1550052201441, 'due': 1029, 'factor': 0, 'flags': 0, 'id': 1550067181897, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550067181, 'nid': 1550052499096, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550067198] cards.py:flush(): {'crt': 1550067198, 'data': '', 'did': 1550052201441, 'due': 1030, 'factor': 0, 'flags': 0, 'id': 1550067198645, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550067198, 'nid': 1550067181985, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550067213] cards.py:flush(): {'crt': 1550067213, 'data': '', 'did': 1550052201441, 'due': 1031, 'factor': 0, 'flags': 0, 'id': 1550067213913, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550067213, 'nid': 1550067198678, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550067224] cards.py:flush(): {'crt': 1550067224, 'data': '', 'did': 1550052201441, 'due': 1032, 'factor': 0, 'flags': 0, 'id': 1550067224629, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550067224, 'nid': 1550067213946, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550067534] cards.py:flush(): {'crt': 1550067534, 'data': '', 'did': 1550052201441, 'due': 1033, 'factor': 0, 'flags': 0, 'id': 1550067534630, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1550067534, 'nid': 1550067445307, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1550067867] collection.py:__init__(): C:\Users\andrew\AppData\Roaming\Anki2\User 1\collection.anki2, 2.1.8
+[1550067867] sched.py:_updateCutoff(): 5, 1550116800
+[1550067867] sync.py:sync(): rmeta, {'cont': True,
+ 'hostNum': 6,
+ 'mod': 1550052159975,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1550067867,
+ 'uname': 'andrew@beveridge.uk',
+ 'usn': 5}
+[1550067867] sync.py:sync(): lmeta, {'cont': True,
+ 'mod': 1550067866590,
+ 'msg': '',
+ 'musn': 0,
+ 'scm': 1549665813445,
+ 'ts': 1550067867,
+ 'usn': 5}
+[1550067867] sync.py:sync(): server chunk, {'cards': [], 'done': True, 'notes': [], 'revlog': []}
+[1550067867] sync.py:newerRows(): cards, []
+[1550067867] sync.py:newerRows(): notes, []
+[1550067867] sync.py:sync(): client chunk, {'cards': [(1550052248494,
+            1550052176324,
+            1550052201441,
+            0,
+            1550052248,
+            5,
+            0,
+            0,
+            1024,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550052439280,
+            1550052248531,
+            1550052201441,
+            0,
+            1550052439,
+            5,
+            0,
+            0,
+            1025,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550052457491,
+            1550052439313,
+            1550052201441,
+            0,
+            1550052457,
+            5,
+            0,
+            0,
+            1026,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550052481610,
+            1550052457527,
+            1550052201441,
+            0,
+            1550052481,
+            5,
+            0,
+            0,
+            1027,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550052499060,
+            1550052481687,
+            1550052201441,
+            0,
+            1550052499,
+            5,
+            0,
+            0,
+            1028,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550067181897,
+            1550052499096,
+            1550052201441,
+            0,
+            1550067181,
+            5,
+            0,
+            0,
+            1029,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550067198645,
+            1550067181985,
+            1550052201441,
+            0,
+            1550067198,
+            5,
+            0,
+            0,
+            1030,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550067213913,
+            1550067198678,
+            1550052201441,
+            0,
+            1550067213,
+            5,
+            0,
+            0,
+            1031,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            ''),
+           (1550067534630,
+            1550067445307,
+            1550052201441,
+            0,
+            1550067534,
+            5,
+            0,
+            0,
+            1033,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            '')],
+ 'done': True,
+ 'notes': [(1550052176324,
+            'fq>:u):h:%',
+            1549664709802,
+            1550052248,
+            5,
+            '',
+            'How are you?\x1fCom estàs?',
+            '',
+            '',
+            0,
+            ''),
+           (1550052248531,
+            'dUf/+d]=r0',
+            1549664709802,
+            1550052439,
+            5,
+            '',
+            "It's clean now.\x1fAra està net.",
+            '',
+            '',
+            0,
+            ''),
+           (1550052439313,
+            'cZ*ql|8uAB',
+            1549664709802,
+            1550052457,
+            5,
+            '',
+            'What time is it?\x1fQuina hora és?',
+            '',
+            '',
+            0,
+            ''),
+           (1550052457527,
+            'kyL(QcVxQZ',
+            1549664709802,
+            1550052481,
+            5,
+            '',
+            "You're lazy.\x1f<div><div>Tu ets un mandrós.</div></div>",
+            '',
+            '',
+            0,
+            ''),
+           (1550052481687,
+            'JD]#te:RlA',
+            1549664709802,
+            1550052499,
+            5,
+            '',
+            "This bag's heavy.\x1f<div><div>Aquesta bossa pesa.</div></div>",
+            '',
+            '',
+            0,
+            ''),
+           (1550052499096,
+            'lJeV}cr)0y',
+            1549664709802,
+            1550067181,
+            5,
+            '',
+            "That's impossible.\x1f<div><div>Això és impossible.</div></div>",
+            '',
+            '',
+            0,
+            ''),
+           (1550067181985,
+            'M:?(@KYQyZ',
+            1549664709802,
+            1550067198,
+            5,
+            '',
+            'The dinner smells good.\x1f<div><div>El sopar fa bona '
+            'olor.</div></div>',
+            '',
+            '',
+            0,
+            ''),
+           (1550067198678,
+            'jaeWv@1_<7',
+            1549664709802,
+            1550067213,
+            5,
+            '',
+            "Today's Wednesday.\x1f<div><div>Avui és dimecres.</div></div>",
+            '',
+            '',
+            0,
+            ''),
+           (1550067445307,
+            'y__(<`0(3]',
+            1549664709802,
+            1550067534,
+            5,
+            '',
+            'It finishes.\x1f<div><div>Això acaba.</div></div>',
+            '',
+            '',
+            0,
+            '')],
+ 'revlog': []}
+[1550067867] sync.py:sync(): findChanges
